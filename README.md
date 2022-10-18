@@ -1,6 +1,6 @@
-# lista-receita :chicken:
+# Lista-receita :chicken:
 
-### estrogonofe!
+### Estrogonofe!
 
 lista de receita feita em html5 e css3 puro.
 
