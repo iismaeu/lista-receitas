@@ -1,2 +1,4 @@
-# lista-receitas
-minha lista de receitas
+# lista-receita :chicken:
+
+### estrogonofe!
+
